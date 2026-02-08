@@ -13,7 +13,7 @@ Cleaning Mode: A dedicated option to remove all generated HTML files from the di
 
 Interactive Images: Clicking on an image automatically takes you to the next one in the gallery.
 
-Usage
+## Usage
 To run the program, compile the Java files and use the following commands:
 
 ### 1. Generate Gallery
@@ -21,11 +21,9 @@ To run the program, compile the Java files and use the following commands:
 java Main <folder_path>
 
 ### 2. Clean Gallery (Delete HTML files)
-```bash
 java Main <folder_path> -c
 
 ### 3. Help
-```bash
 java Main -h
 # or
 java Main -help
