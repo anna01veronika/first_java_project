@@ -33,4 +33,4 @@ java Main -h
 java Main -help
 ```
 
-### I uploaded a zip file that contains a folder that almost covers all the possible outcomes for the program, so you can test it out yourself!
+I uploaded a zip file that contains a folder that almost covers all the possible outcomes for the program, so you can test it out yourself!
