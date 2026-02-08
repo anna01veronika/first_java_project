@@ -24,5 +24,5 @@ java Main <folder_path> -c
 
 3. Help
 java Main -h
-# or
+or
 java Main -help
