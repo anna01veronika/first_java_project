@@ -1,4 +1,4 @@
-# first_java_project
+# HTML Image Gallery Generator
 
 This is a project written in Java that automatically crawls a folder and generates a navigable HTML gallery from the images (.jpg, .jpeg, .png) in it.
 
