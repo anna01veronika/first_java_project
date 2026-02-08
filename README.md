@@ -18,14 +18,14 @@ To run the program, compile the Java files and use the following commands:
 
 1. Generate Gallery
    
-java Main <folder_path>
+   java Main <folder_path>
 
 2. Clean Gallery (Delete HTML files)
    
-java Main <folder_path> -c
+   java Main <folder_path> -c
 
 3. Help
    
-java Main -h
-or
-java Main -help
+   java Main -h
+   or
+   java Main -help
