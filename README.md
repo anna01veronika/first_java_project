@@ -16,11 +16,11 @@ Interactive Images: Clicking on an image automatically takes you to the next one
 Usage
 To run the program, compile the Java files and use the following commands:
 
-1. Generate Gallery
+### 1. Generate Gallery
 ```bash
 java Main <folder_path>
 
-2. Clean Gallery (Delete HTML files)
+3. Clean Gallery (Delete HTML files)
 ```bash
 java Main <folder_path> -c
 
